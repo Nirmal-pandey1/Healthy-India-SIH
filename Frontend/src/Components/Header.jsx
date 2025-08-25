@@ -3,7 +3,7 @@ import '../App.css'
 import logo from '../assets/logo2.png'
 function Header() {
   return (
-          <div className='shadow '>
+          <div className='shadow fixed top-0 w-full bg-white'>
           <nav className='center py-3 flex items-center'>
               <div>
                   <img src={logo} alt="" className="w-auto  h-13" />

@@ -4,7 +4,7 @@ import '../App.css'
 function Hero() {
   return (
     <>
-    <div className='center shadow '>
+    <div className='center shadow pt-[50px]'>
     <div className=' flex items-center  '>
         <div className='flex flex-col gap-4 '>
             <h2 className='font-bold text-cyan-700 text-7xl '>#KnowYourHealthCard</h2>
